@@ -3,11 +3,6 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import FlashMessage from 'react-native-flash-message';
 
-import SplashScreen from './finalMAD/pages/SplashScreen';
-import SignIn from './finalMAD/pages/SignIn';
-import SignUp from './finalMAD/pages/SignUp';
-import SignUp2 from './finalMAD/pages/SignUp2';
-import Menu from './finalMAD/pages/Menu';
 import ListProduk from './finalMAD/pages/ListProduk';
 import Checkout from './finalMAD/pages/Checkout';
 import Payment from './finalMAD/pages/Payment';
